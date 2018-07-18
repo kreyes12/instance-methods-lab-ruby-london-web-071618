@@ -5,4 +5,3 @@ def bark
   end
 end
 
-Dog.bark
