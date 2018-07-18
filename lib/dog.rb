@@ -6,3 +6,4 @@ def bark
 end
 
 Dog.bark
+end
