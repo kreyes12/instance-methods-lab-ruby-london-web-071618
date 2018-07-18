@@ -9,4 +9,8 @@ def walk
   end
 end
 
+ada = Person.new
+ada.talk
+ada.walk
+
   
